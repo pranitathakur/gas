@@ -16,8 +16,6 @@ return [
     |
     */
 
-    'default' => env('LOG_CHANNEL', 'stack'),
-
     /*
     |--------------------------------------------------------------------------
     | Log Channels
@@ -32,6 +30,9 @@ return [
     |                    "custom", "stack"
     |
     */
+
+
+    dashdsafj
 
     'channels' => [
         'stack' => [
